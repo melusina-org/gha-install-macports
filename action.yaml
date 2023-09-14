@@ -1,4 +1,4 @@
-name: 'Install MacPorts'
+name: 'Install MacPorts (obsolete)'
 description: >-
   Install MacPorts on a Mac OS runner.
 branding:
